@@ -1,6 +1,5 @@
 - Hi, I’m @hobbybwanali
 - I’m interested in desktop and mobile app development with (Python, C#, C++...)
-- I’m currently learning Game Development and Computer Language Creation
 - How to reach me: hobbybwanali@gmail.com
 
 <!---
