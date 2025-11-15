@@ -8,7 +8,7 @@ My work combines **Python**, **Arduino (C/C++)**, **Android (Kotlin)**, **Git/Gi
 ---
 
 ## Technical Skills  
-- **Languages:** Python, Arduino (C/C++), Kotlin, C#  
+- **Languages:** Python, Arduino (C/C++), Kotlin, C#, HTML/CSS/PHP  
 - **Tools:** Git, GitHub, Scikit-learn  
 - **Domains:** SD Card logging, GSM, Android development, Sensors & IoT  
 
