@@ -16,8 +16,8 @@ My work combines **Python**, **Arduino (C/C++)**, **Android (Kotlin)**, **Git/Gi
 
 ## Contact  
 - **Email:** hobbybwanali@gmail.com  
-- **GitHub:** [github.com/hobbybwanali](https://github.com/hobbybwanali)  
-
+- **GitHub:** [github.com/hobbybwanali](https://github.com/hobbybwanali)
+- **LinkedIn:** [linkedin.com/in/hobby-bwanali-564a3724a](https://www.linkedin.com/in/hobby-bwanali-564a3724a) 
 ---
 
 ## Featured Projects  
